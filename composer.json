@@ -20,8 +20,7 @@
     ],
     "require": {
         "php" : ">=5.5.9",
-        "stevenmaguire/middleware-csp": "^0.1",
-        "guzzlehttp/psr7": "^1.1"
+        "stevenmaguire/middleware-csp": "^0.1"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*@dev",
